@@ -1,0 +1,30 @@
+/* -------navbar------- */
+.brand {
+  color: red;
+}
+.brand:hover {
+  color: white;
+}
+
+.active:hover {
+  color: red !important;
+}
+/* -------navbar------- */
+
+/* -------index------- */
+
+/* -------index------- */
+
+/* -------ürünlerimiz------- */
+.ürünlerimiz-başlık {
+  text-align: center;
+  color: blueviolet;
+  padding: 1.2rem;
+}
+.card {
+  color: blueviolet;
+}
+/* -------ürünlerimiz------- */
+
+/* -------hakkımızda------- */
+/* -------hakkımızda------- */
